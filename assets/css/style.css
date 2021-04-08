@@ -1,0 +1,33 @@
+/* positionner l'image de l'exo 1 */
+#first_img{
+  width: 20%;
+}
+/* style de l'exo 2, la position du text affiché / caché */
+#text_hiding{
+  width: 50vw;
+  border: 1px solid brown;
+  margin: 0 auto;
+}
+/* style de l'exo 3 avec les divs colorées */
+.small_square{
+  display: inline-block;
+  margin: 1rem;
+  width: 5vw;
+  height: 10vh;
+  background-color: pink;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+/* le text de l'exo 3 est centré */
+#initial_color{
+  width: 50vw;
+  margin: 0 auto;
+  padding: 1rem;
+}
